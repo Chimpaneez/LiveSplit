@@ -2812,4 +2812,25 @@
     <Type>Script</Type>
     <Description>In-game time, auto-split, auto-start and load-removal. (by Lordmau5)</Description>
   </AutoSplitter>
+
+  <AutoSplitter>
+   <Games>
+     <Game>Metro 2033 Redux</Game>
+   </Games>
+   <URLs>
+     <URL>https://raw.githubusercontent.com/Chimpaneez/metro2033redux/master/metro2033redux.asl</URL>
+   </URLs>
+   <Type>Script</Type>
+   <Description>Load Removal is available. (By Chimpaneez)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+   <Games>
+     <Game>Metro: Last Light Redux</Game>
+   </Games>
+   <URLs>
+     <URL>https://raw.githubusercontent.com/Chimpaneez/metrolastlightredux/master/metrolastlightredux.asl</URL>
+   </URLs>
+   <Type>Script</Type>
+   <Description>Load Removal is available. (By Chimpaneez)</Description>
+ </AutoSplitter>
 </AutoSplitters>
